@@ -4,6 +4,9 @@ A local transaction-security and payment-compliance case study that demonstrates
 
 > **Educational simulator:** This project does not implement certified Austrian RKSV fiscalization, real asymmetric signatures, FinanzOnline integration, or production key management. It is intended to demonstrate fiscalization concepts in a controlled local environment.
 
+https://github.com/user-attachments/assets/9a7a264e-53e2-4a46-b2c6-2e7450f5ecc1
+
+
 ## Project overview
 
 The Fiscalization Simulator models an organization, signing unit, cash register, and receipt workflow. The Next.js dashboard initiates operations through server-side API routes, n8n executes the application workflows, and Supabase PostgreSQL provides the persistent domain model.
