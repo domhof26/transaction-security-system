@@ -48,14 +48,9 @@ frontend/
     types/        Shared TypeScript domain types
 docs/
   api.md
+  database-schema.md
+  n8n-workflows.md
 
-Architecture Specification.md
-Data Model — Fiscalization Simulator.md
-DASHBOARD_SPEC.md
-database-schema.md
-database-functions.md
-design.md
-fiscalization-simulator n8n workflows.md
 ```
 
 ## Technology
