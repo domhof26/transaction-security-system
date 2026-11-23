@@ -1,3 +1,6 @@
+This repository contains the complete, unmodified n8n workflow exports for transparency and demonstration purposes. The workflows are designed to run exclusively in my local, Docker-based development environment and are intended for demonstration only.
+They have not been hardened for public or production use
+
 ================================================================================
 Workflow 1 - Workflow Name: Fiscal 1 - Create Organization
 ================================================================================
