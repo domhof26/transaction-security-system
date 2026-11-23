@@ -151,4 +151,3 @@ The project currently has no dedicated test runner or test suite. Quality checks
 - Supabase credentials are consumed by Next.js server route handlers, not by browser code.
 - Existing credentials and webhook node identifiers must be rotated if they are ever exposed outside the local environment.
 - This repository is intentionally not licensed for reuse until a license is chosen.
-
