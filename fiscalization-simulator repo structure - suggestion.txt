@@ -1,0 +1,12 @@
+fiscalization-simulator/
+├── docs/
+│   ├── DATA_MODEL.md
+│   ├── ARCHITECTURE.md
+│   └── API_SPECIFICATION.md
+├── n8n/
+│   └── workflows/
+├── supabase/
+│   └── migrations/
+├── frontend/
+├── docker-compose.yml
+└── README.md
